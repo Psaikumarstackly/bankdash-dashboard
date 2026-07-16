@@ -1,7 +1,7 @@
-import LiviaBator from "../assets/livia bator.png";
-import Randypress from "../assets/randy press.png";
-import Workman from "../assets/workman.png";
-import Profileimg from "../assets/profile img.png";
+import LiviaBator from "../assets/LiviaBator.png";
+import Randypress from "../assets/Randypress.png";
+import Workman from "../assets/Workman.png";
+import Profileimg from "../assets/Profileimg.png";
 
 export const navItems = [
   { key: "dashboard", label: "Dashboard", icon: "LayoutDashboard" },
